@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # House Price Prediction
 
 Predicting residential house prices using Regression models.
@@ -23,3 +24,7 @@ Run the pipeline:
 ```bash
 python main.py
 ```
+=======
+# House-Price-Prediction
+ml project
+>>>>>>> 29e3053a05e2757fb162a0aecd8bfc60a6e2bcdf
